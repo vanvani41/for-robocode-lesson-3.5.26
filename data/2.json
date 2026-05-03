@@ -1,0 +1,5 @@
+{
+  "content": "Why did http.createServer fail? Because it don't want to listen to the port!",
+  "likes": 3,
+  "dislikes": 0
+}
